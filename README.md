@@ -11,6 +11,7 @@ We are also asked to visualize the Data and present them in either a matplotlib 
 Every calculation and transformation of Data has to happen through a Python Script.
 
 The following steps are just a recommendation, we suggest you trying and think outside the box while working with this data and maybe take different paths.
+
 Step 1.
 Add the Dataset provided to Workbench.
 
